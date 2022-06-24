@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExampleProjectForRecycleView</string>
+    <string name="title">Title:</string>
+    <string name="default_day">17</string>
+    <string name="default_month">Nov</string>
+    <string name="default_time">04:00 PM</string>
+    <string name="default_date">25-11-2017 :</string>
+    <string name="date_label">Date:</string>
+    <string name="default_des">Speaker Tim Cook</string>
+    <string name="description_label">Description:</string>
+    <string name="dafault_title">Apple Event</string>
+</resources>
